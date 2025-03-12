@@ -1,15 +1,13 @@
 # Nathaly Brogiato
 
-**`Desenvolvedora web`**
-
-Me chamo Nathaly Brogiato, tenho 16 anos e sou natural do Paraná. Atualmente, estou cursando o médio no CEEP CIANORTE, com o curso técnico em desenvolvimento de sistemas.
+**`Desenvolvedora web
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/luizbfernando?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/nathalybrogiato?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/luizbfernando?tab=followers">
